@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OData.API", "OData.API\OData.API.csproj", "{14247CA8-7782-47C8-B52C-D8D5CCA6CB6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OData.Model", "OData.Model\OData.Model.csproj", "{86D44CDF-D6AD-4E84-9E62-5131EE5E317F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OData.DAL", "OData.DAL\OData.DAL.csproj", "{CD0A1317-1F6A-4139-B7F1-FDBF9FDB3C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OData.WebClient", "OData.WebClient\OData.WebClient.csproj", "{FBCC9431-E5EC-4C56-B9AC-7EDE5FB93043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14247CA8-7782-47C8-B52C-D8D5CCA6CB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14247CA8-7782-47C8-B52C-D8D5CCA6CB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14247CA8-7782-47C8-B52C-D8D5CCA6CB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14247CA8-7782-47C8-B52C-D8D5CCA6CB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D44CDF-D6AD-4E84-9E62-5131EE5E317F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D44CDF-D6AD-4E84-9E62-5131EE5E317F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D44CDF-D6AD-4E84-9E62-5131EE5E317F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D44CDF-D6AD-4E84-9E62-5131EE5E317F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0A1317-1F6A-4139-B7F1-FDBF9FDB3C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0A1317-1F6A-4139-B7F1-FDBF9FDB3C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0A1317-1F6A-4139-B7F1-FDBF9FDB3C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0A1317-1F6A-4139-B7F1-FDBF9FDB3C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBCC9431-E5EC-4C56-B9AC-7EDE5FB93043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCC9431-E5EC-4C56-B9AC-7EDE5FB93043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCC9431-E5EC-4C56-B9AC-7EDE5FB93043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCC9431-E5EC-4C56-B9AC-7EDE5FB93043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rezacse0807002.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OData.API\\OData.API.csproj
+		SccProjectName1 = OData.API
+		SccLocalPath1 = OData.API
+		SccProjectUniqueName2 = OData.DAL\\OData.DAL.csproj
+		SccProjectName2 = OData.DAL
+		SccLocalPath2 = OData.DAL
+		SccProjectUniqueName3 = OData.Model\\OData.Model.csproj
+		SccProjectName3 = OData.Model
+		SccLocalPath3 = OData.Model
+		SccProjectUniqueName4 = OData.WebClient\\OData.WebClient.csproj
+		SccProjectName4 = OData.WebClient
+		SccLocalPath4 = OData.WebClient
+	EndGlobalSection
+EndGlobal
